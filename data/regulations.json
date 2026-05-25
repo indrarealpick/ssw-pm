@@ -1,0 +1,257 @@
+[
+  {
+    "jp": "特定技能",
+    "reading": "とくていぎのう",
+    "id": "Keterampilan khusus"
+  },
+  {
+    "jp": "評価試験",
+    "reading": "ひょうかしけん",
+    "id": "Ujian penilaian"
+  },
+  {
+    "jp": "技能",
+    "reading": "ぎのう",
+    "id": "Keterampilan"
+  },
+  {
+    "jp": "表示義務",
+    "reading": "ひょうじぎむ",
+    "id": "Kewajiban pelabelan"
+  },
+  {
+    "jp": "一般社団法人",
+    "reading": "いっぱんしゃだんほうじん",
+    "id": "Asosiasi umum berbadan hukum"
+  },
+  {
+    "jp": "外国人食品産業技能評価機構",
+    "reading": "がいこくじんしょくひんさんぎょうぎのうひょうかきこう",
+    "id": "OTAFF - Lembaga Penilaian Keterampilan Industri Pangan bagi WNA"
+  },
+  {
+    "jp": "食品衛生法",
+    "reading": "しょくひんえいせいほう",
+    "id": "Undang-Undang Higiene Pangan Jepang"
+  },
+  {
+    "jp": "労働安全衛生法",
+    "reading": "ろうどうあんぜんえいせいほう",
+    "id": "Undang-Undang Keselamatan dan Kesehatan Kerja"
+  },
+  {
+    "jp": "食品表示法",
+    "reading": "しょくひんひょうじほう",
+    "id": "Undang-Undang Pelabelan Pangan"
+  },
+  {
+    "jp": "JAS規格",
+    "reading": "じゃすきかく",
+    "id": "Standar JAS (Japanese Agricultural Standard)"
+  },
+  {
+    "jp": "認証",
+    "reading": "にんしょう",
+    "id": "Sertifikasi / akreditasi"
+  },
+  {
+    "jp": "監査",
+    "reading": "かんさ",
+    "id": "Audit"
+  },
+  {
+    "jp": "内部監査",
+    "reading": "ないぶかんさ",
+    "id": "Audit internal"
+  },
+  {
+    "jp": "外部監査",
+    "reading": "がいぶかんさ",
+    "id": "Audit eksternal"
+  },
+  {
+    "jp": "適合",
+    "reading": "てきごう",
+    "id": "Kesesuaian / compliance"
+  },
+  {
+    "jp": "不適合",
+    "reading": "ふてきごう",
+    "id": "Ketidaksesuaian / non-conformance"
+  },
+  {
+    "jp": "行政処分",
+    "reading": "ぎょうせいしょぶん",
+    "id": "Sanksi administratif"
+  },
+  {
+    "jp": "営業停止",
+    "reading": "えいぎょうていし",
+    "id": "Penghentian operasi bisnis"
+  },
+  {
+    "jp": "法令",
+    "reading": "ほうれい",
+    "id": "Peraturan perundang-undangan"
+  },
+  {
+    "jp": "在留資格",
+    "reading": "ざいりゅうしかく",
+    "id": "Status izin tinggal"
+  },
+  {
+    "jp": "特定技能1号",
+    "reading": "とくていぎのういちごう",
+    "id": "Visa keterampilan khusus tipe 1"
+  },
+  {
+    "jp": "消費者",
+    "reading": "しょうひしゃ",
+    "id": "Konsumen"
+  },
+  {
+    "jp": "著作権",
+    "reading": "ちょさくけん",
+    "id": "Hak cipta"
+  },
+  {
+    "jp": "改訂",
+    "reading": "かいてい",
+    "id": "Revisi / edisi baru"
+  },
+  {
+    "jp": "補償",
+    "reading": "ほしょう",
+    "id": "Kompensasi / ganti rugi"
+  },
+  {
+    "jp": "食品安全委員会",
+    "reading": "しょくひんあんぜんいいんかい",
+    "id": "Komite Keamanan Pangan Jepang"
+  },
+  {
+    "jp": "厚生労働省",
+    "reading": "こうせいろうどうしょう",
+    "id": "Kementerian Kesehatan dan Tenaga Kerja Jepang"
+  },
+  {
+    "jp": "農林水産省",
+    "reading": "のうりんすいさんしょう",
+    "id": "Kementerian Pertanian, Kehutanan dan Perikanan Jepang"
+  },
+  {
+    "jp": "消費者庁",
+    "reading": "しょうひしゃちょう",
+    "id": "Badan Urusan Konsumen Jepang"
+  },
+  {
+    "jp": "食品関係営業",
+    "reading": "しょくひんかんけいえいぎょう",
+    "id": "Usaha yang berkaitan dengan makanan"
+  },
+  {
+    "jp": "改訂履歴",
+    "reading": "かいていりれき",
+    "id": "Riwayat revisi / histori perubahan"
+  },
+  {
+    "jp": "参考文献",
+    "reading": "さんこうぶんけん",
+    "id": "Daftar pustaka / referensi"
+  },
+  {
+    "jp": "注意事項",
+    "reading": "ちゅういじこう",
+    "id": "Hal-hal yang perlu diperhatikan"
+  },
+  {
+    "jp": "著作権について",
+    "reading": "ちょさくけんについて",
+    "id": "Tentang hak cipta"
+  },
+  {
+    "jp": "免責について",
+    "reading": "めんせきについて",
+    "id": "Tentang penafian tanggung jawab"
+  },
+  {
+    "jp": "リンクについて",
+    "reading": "りんくについて",
+    "id": "Tentang tautan / link"
+  },
+  {
+    "jp": "食品衛生責任者",
+    "reading": "しょくひんえいせいせきにんしゃ",
+    "id": "Penanggung jawab higiene pangan"
+  },
+  {
+    "jp": "HACCP義務化",
+    "reading": "はっさっぷぎむか",
+    "id": "Kewajiban penerapan HACCP"
+  },
+  {
+    "jp": "製造許可",
+    "reading": "せいぞうきょか",
+    "id": "Izin produksi"
+  },
+  {
+    "jp": "営業許可",
+    "reading": "えいぎょうきょか",
+    "id": "Izin usaha / operasional"
+  },
+  {
+    "jp": "施設基準",
+    "reading": "しせつきじゅん",
+    "id": "Standar fasilitas"
+  },
+  {
+    "jp": "構造基準",
+    "reading": "こうぞうきじゅん",
+    "id": "Standar konstruksi bangunan"
+  },
+  {
+    "jp": "成分規格",
+    "reading": "せいぶんきかく",
+    "id": "Standar komposisi produk"
+  },
+  {
+    "jp": "衛生規範",
+    "reading": "えいせいきはん",
+    "id": "Norma higiene"
+  },
+  {
+    "jp": "自主回収",
+    "reading": "じしゅかいしゅう",
+    "id": "Penarikan produk secara sukarela"
+  },
+  {
+    "jp": "行政回収",
+    "reading": "ぎょうせいかいしゅう",
+    "id": "Penarikan produk atas perintah pemerintah"
+  },
+  {
+    "jp": "食品事故",
+    "reading": "しょくひんじこ",
+    "id": "Insiden keamanan pangan"
+  },
+  {
+    "jp": "危害情報",
+    "reading": "きがいじょうほう",
+    "id": "Informasi hazard / bahaya"
+  },
+  {
+    "jp": "食品リスク",
+    "reading": "しょくひんりすく",
+    "id": "Risiko keamanan pangan"
+  },
+  {
+    "jp": "リスクコミュニケーション",
+    "reading": "りすくこみゅにけーしょん",
+    "id": "Komunikasi risiko"
+  },
+  {
+    "jp": "リスク管理",
+    "reading": "りすくかんり",
+    "id": "Manajemen risiko"
+  }
+]
