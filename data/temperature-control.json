@@ -1,0 +1,232 @@
+[
+  {
+    "jp": "冷凍",
+    "reading": "れいとう",
+    "id": "Pembekuan / beku"
+  },
+  {
+    "jp": "冷蔵",
+    "reading": "れいぞう",
+    "id": "Pendinginan / dingin"
+  },
+  {
+    "jp": "解凍",
+    "reading": "かいとう",
+    "id": "Pencairan bahan beku (thawing)"
+  },
+  {
+    "jp": "中心温度",
+    "reading": "ちゅうしんおんど",
+    "id": "Suhu inti produk"
+  },
+  {
+    "jp": "冷却",
+    "reading": "れいきゃく",
+    "id": "Pendinginan"
+  },
+  {
+    "jp": "保管温度",
+    "reading": "ほかんおんど",
+    "id": "Suhu penyimpanan"
+  },
+  {
+    "jp": "自然解凍",
+    "reading": "しぜんかいとう",
+    "id": "Pencairan alami (suhu ruangan)"
+  },
+  {
+    "jp": "流水解凍",
+    "reading": "りゅうすいかいとう",
+    "id": "Pencairan dengan air mengalir"
+  },
+  {
+    "jp": "冷蔵解凍",
+    "reading": "れいぞうかいとう",
+    "id": "Pencairan di dalam kulkas"
+  },
+  {
+    "jp": "品温",
+    "reading": "ひんおん",
+    "id": "Suhu produk"
+  },
+  {
+    "jp": "庫内温度",
+    "reading": "こないおんど",
+    "id": "Suhu di dalam ruang penyimpanan"
+  },
+  {
+    "jp": "保冷剤",
+    "reading": "ほれいざい",
+    "id": "Kantong es / pendingin portabel"
+  },
+  {
+    "jp": "コールドチェーン",
+    "reading": "こーるどちぇーん",
+    "id": "Rantai dingin (cold chain)"
+  },
+  {
+    "jp": "温度逸脱",
+    "reading": "おんどいつだつ",
+    "id": "Penyimpangan suhu"
+  },
+  {
+    "jp": "至適温度",
+    "reading": "してきおんど",
+    "id": "Suhu optimal pertumbuhan bakteri"
+  },
+  {
+    "jp": "再冷凍",
+    "reading": "さいれいとう",
+    "id": "Pembekuan ulang"
+  },
+  {
+    "jp": "加熱殺菌温度",
+    "reading": "かねつさっきんおんど",
+    "id": "Suhu sterilisasi dengan pemanasan"
+  },
+  {
+    "jp": "75℃1分以上加熱",
+    "reading": "ななじゅうごどいちふんいじょうかねつ",
+    "id": "Panaskan 75°C lebih dari 1 menit"
+  },
+  {
+    "jp": "85℃90秒以上加熱",
+    "reading": "はちじゅうごどきゅうじゅうびょういじょうかねつ",
+    "id": "Panaskan 85°C lebih dari 90 detik (untuk Norovirus)"
+  },
+  {
+    "jp": "63℃30分加熱",
+    "reading": "ろくじゅうさんどさんじゅっぷんかねつ",
+    "id": "Panaskan 63°C selama 30 menit"
+  },
+  {
+    "jp": "中心温度の確認",
+    "reading": "ちゅうしんおんどのかくにん",
+    "id": "Pengecekan suhu inti produk"
+  },
+  {
+    "jp": "温度管理",
+    "reading": "おんどかんり",
+    "id": "Manajemen / pengendalian suhu"
+  },
+  {
+    "jp": "冷凍温度",
+    "reading": "れいとうおんど",
+    "id": "Suhu pembekuan (-18°C ke bawah)"
+  },
+  {
+    "jp": "冷蔵温度",
+    "reading": "れいぞうおんど",
+    "id": "Suhu pendinginan (0-10°C)"
+  },
+  {
+    "jp": "常温保存",
+    "reading": "じょうおんほぞん",
+    "id": "Penyimpanan suhu ruang"
+  },
+  {
+    "jp": "保存温度帯",
+    "reading": "ほぞんおんどたい",
+    "id": "Rentang suhu penyimpanan"
+  },
+  {
+    "jp": "急速冷凍",
+    "reading": "きゅうそくれいとう",
+    "id": "Pembekuan cepat (blast freezing)"
+  },
+  {
+    "jp": "急速冷却",
+    "reading": "きゅうそくれいきゃく",
+    "id": "Pendinginan cepat"
+  },
+  {
+    "jp": "ブラストチラー",
+    "reading": "ぶらすとちらー",
+    "id": "Blast chiller (pendingin cepat)"
+  },
+  {
+    "jp": "中心温度計",
+    "reading": "ちゅうしんおんどけい",
+    "id": "Termometer tusuk untuk suhu inti"
+  },
+  {
+    "jp": "表面温度計",
+    "reading": "ひょうめんおんどけい",
+    "id": "Termometer permukaan"
+  },
+  {
+    "jp": "放射温度計",
+    "reading": "ほうしゃおんどけい",
+    "id": "Termometer infrared / non-kontak"
+  },
+  {
+    "jp": "温度記録計",
+    "reading": "おんどきろくけい",
+    "id": "Data logger suhu"
+  },
+  {
+    "jp": "温度ロガー",
+    "reading": "おんどろがー",
+    "id": "Temperature logger / pencatat suhu otomatis"
+  },
+  {
+    "jp": "チルド保存",
+    "reading": "ちるどほぞん",
+    "id": "Penyimpanan chilled (0-5°C)"
+  },
+  {
+    "jp": "冷凍保存",
+    "reading": "れいとうほぞん",
+    "id": "Penyimpanan beku (-18°C ke bawah)"
+  },
+  {
+    "jp": "常温保存可能",
+    "reading": "じょうおんほぞんかのう",
+    "id": "Dapat disimpan pada suhu ruang"
+  },
+  {
+    "jp": "要冷蔵",
+    "reading": "ようれいぞう",
+    "id": "Harus disimpan di kulkas"
+  },
+  {
+    "jp": "要冷凍",
+    "reading": "ようれいとう",
+    "id": "Harus disimpan di freezer"
+  },
+  {
+    "jp": "温度変化",
+    "reading": "おんどへんか",
+    "id": "Perubahan suhu"
+  },
+  {
+    "jp": "温度差",
+    "reading": "おんどさ",
+    "id": "Perbedaan suhu"
+  },
+  {
+    "jp": "急激な温度変化",
+    "reading": "きゅうげきなおんどへんか",
+    "id": "Perubahan suhu mendadak / drastis"
+  },
+  {
+    "jp": "温度帯別管理",
+    "reading": "おんどたいべつかんり",
+    "id": "Manajemen berdasarkan zona suhu"
+  },
+  {
+    "jp": "加熱後の温度管理",
+    "reading": "かねつごのおんどかんり",
+    "id": "Pengelolaan suhu setelah pemanasan"
+  },
+  {
+    "jp": "冷却速度",
+    "reading": "れいきゃくそくど",
+    "id": "Kecepatan pendinginan"
+  },
+  {
+    "jp": "2時間以内に10℃以下",
+    "reading": "にじかんいないにじゅうどいか",
+    "id": "Di bawah 10°C dalam 2 jam (standar pendinginan)"
+  }
+]
