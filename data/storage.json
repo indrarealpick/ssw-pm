@@ -1,0 +1,192 @@
+[
+  {
+    "jp": "受け入れ",
+    "reading": "うけいれ",
+    "id": "Penerimaan bahan baku"
+  },
+  {
+    "jp": "保管",
+    "reading": "ほかん",
+    "id": "Penyimpanan"
+  },
+  {
+    "jp": "先入れ先出し",
+    "reading": "さきいれさきだし",
+    "id": "FIFO (masuk pertama keluar pertama)"
+  },
+  {
+    "jp": "使用期限",
+    "reading": "しようきげん",
+    "id": "Batas waktu penggunaan"
+  },
+  {
+    "jp": "冷凍庫",
+    "reading": "れいとうこ",
+    "id": "Freezer"
+  },
+  {
+    "jp": "冷蔵庫",
+    "reading": "れいぞうこ",
+    "id": "Lemari es / kulkas"
+  },
+  {
+    "jp": "在庫",
+    "reading": "ざいこ",
+    "id": "Stok / inventaris"
+  },
+  {
+    "jp": "パレット",
+    "reading": "ぱれっと",
+    "id": "Palet"
+  },
+  {
+    "jp": "倉庫",
+    "reading": "そうこ",
+    "id": "Gudang"
+  },
+  {
+    "jp": "入荷",
+    "reading": "にゅうか",
+    "id": "Kedatangan / penerimaan barang"
+  },
+  {
+    "jp": "発注",
+    "reading": "はっちゅう",
+    "id": "Pemesanan bahan baku"
+  },
+  {
+    "jp": "原材料の受け入れ",
+    "reading": "げんざいりょうのうけいれ",
+    "id": "Penerimaan bahan baku"
+  },
+  {
+    "jp": "原材料の保管",
+    "reading": "げんざいりょうのほかん",
+    "id": "Penyimpanan bahan baku"
+  },
+  {
+    "jp": "原材料の開封",
+    "reading": "げんざいりょうのかいふう",
+    "id": "Pembukaan kemasan bahan baku"
+  },
+  {
+    "jp": "原材料の下処理",
+    "reading": "げんざいりょうのしたしょり",
+    "id": "Pra-pemrosesan bahan baku"
+  },
+  {
+    "jp": "保管条件",
+    "reading": "ほかんじょうけん",
+    "id": "Kondisi penyimpanan"
+  },
+  {
+    "jp": "床から離して保管",
+    "reading": "ゆかからはなしてほかん",
+    "id": "Simpan terpisah dari lantai"
+  },
+  {
+    "jp": "壁から離して保管",
+    "reading": "かべからはなしてほかん",
+    "id": "Simpan terpisah dari dinding"
+  },
+  {
+    "jp": "食品と非食品の区別",
+    "reading": "しょくひんとひしょくひんのくべつ",
+    "id": "Pemisahan makanan dan non-makanan"
+  },
+  {
+    "jp": "仕入れ先",
+    "reading": "しいれさき",
+    "id": "Pemasok / supplier"
+  },
+  {
+    "jp": "納入業者",
+    "reading": "のうにゅうぎょうしゃ",
+    "id": "Perusahaan pemasok"
+  },
+  {
+    "jp": "受入検査",
+    "reading": "うけいれけんさ",
+    "id": "Inspeksi penerimaan bahan"
+  },
+  {
+    "jp": "検品記録",
+    "reading": "けんぴんきろく",
+    "id": "Catatan inspeksi barang"
+  },
+  {
+    "jp": "製品倉庫",
+    "reading": "せいひんそうこ",
+    "id": "Gudang produk jadi"
+  },
+  {
+    "jp": "保管場所",
+    "reading": "ほかんばしょ",
+    "id": "Lokasi penyimpanan"
+  },
+  {
+    "jp": "保管方法",
+    "reading": "ほかんほうほう",
+    "id": "Metode penyimpanan"
+  },
+  {
+    "jp": "保管期間",
+    "reading": "ほかんきかん",
+    "id": "Durasi penyimpanan"
+  },
+  {
+    "jp": "食品の保管",
+    "reading": "しょくひんのほかん",
+    "id": "Penyimpanan makanan"
+  },
+  {
+    "jp": "原材料の保管庫",
+    "reading": "げんざいりょうのほかんこ",
+    "id": "Ruang penyimpanan bahan baku"
+  },
+  {
+    "jp": "製品の保管庫",
+    "reading": "せいひんのほかんこ",
+    "id": "Ruang penyimpanan produk jadi"
+  },
+  {
+    "jp": "危険物の保管",
+    "reading": "きけんぶつのほかん",
+    "id": "Penyimpanan bahan berbahaya"
+  },
+  {
+    "jp": "薬剤の保管",
+    "reading": "やくざいのほかん",
+    "id": "Penyimpanan bahan kimia"
+  },
+  {
+    "jp": "開封後の保管",
+    "reading": "かいふうごのほかん",
+    "id": "Penyimpanan setelah kemasan dibuka"
+  },
+  {
+    "jp": "残品の管理",
+    "reading": "ざんぴんのかんり",
+    "id": "Pengelolaan sisa produk / bahan"
+  },
+  {
+    "jp": "半製品の保管",
+    "reading": "はんせいひんのほかん",
+    "id": "Penyimpanan produk setengah jadi"
+  },
+  {
+    "jp": "返品の管理",
+    "reading": "へんぴんのかんり",
+    "id": "Pengelolaan produk retur / dikembalikan"
+  },
+  {
+    "jp": "不合格品の保管",
+    "reading": "ふごうかくひんのほかん",
+    "id": "Penyimpanan produk yang tidak lulus"
+  },
+  {
+    "jp": "隔離保管",
+    "reading": "かくりほかん",
+    "id": "Penyimpanan terpisah / karantina"
+  }
+]
