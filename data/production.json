@@ -1,0 +1,262 @@
+[
+  {
+    "jp": "製造業",
+    "reading": "せいぞうぎょう",
+    "id": "Industri manufaktur"
+  },
+  {
+    "jp": "国内生産額",
+    "reading": "こくないせいさんがく",
+    "id": "Nilai produksi dalam negeri"
+  },
+  {
+    "jp": "出荷",
+    "reading": "しゅっか",
+    "id": "Pengiriman barang"
+  },
+  {
+    "jp": "配送",
+    "reading": "はいそう",
+    "id": "Distribusi / pengiriman"
+  },
+  {
+    "jp": "製造年月日",
+    "reading": "せいぞうねんがっぴ",
+    "id": "Tanggal produksi"
+  },
+  {
+    "jp": "製品",
+    "reading": "せいひん",
+    "id": "Produk"
+  },
+  {
+    "jp": "製造工程",
+    "reading": "せいぞうこうてい",
+    "id": "Proses produksi"
+  },
+  {
+    "jp": "工程管理",
+    "reading": "こうていかんり",
+    "id": "Pengendalian proses produksi"
+  },
+  {
+    "jp": "仕掛品",
+    "reading": "しかかりひん",
+    "id": "Barang setengah jadi (WIP)"
+  },
+  {
+    "jp": "完成品",
+    "reading": "かんせいひん",
+    "id": "Barang jadi"
+  },
+  {
+    "jp": "歩留まり",
+    "reading": "ぶどまり",
+    "id": "Tingkat hasil / yield"
+  },
+  {
+    "jp": "ライン",
+    "reading": "らいん",
+    "id": "Lini produksi"
+  },
+  {
+    "jp": "前工程",
+    "reading": "まえこうてい",
+    "id": "Proses sebelumnya"
+  },
+  {
+    "jp": "後工程",
+    "reading": "あとこうてい",
+    "id": "Proses berikutnya"
+  },
+  {
+    "jp": "自動化",
+    "reading": "じどうか",
+    "id": "Otomatisasi"
+  },
+  {
+    "jp": "手動",
+    "reading": "しゅどう",
+    "id": "Manual / dengan tangan"
+  },
+  {
+    "jp": "自動",
+    "reading": "じどう",
+    "id": "Otomatis"
+  },
+  {
+    "jp": "ライン停止",
+    "reading": "らいんていし",
+    "id": "Penghentian lini produksi"
+  },
+  {
+    "jp": "バッチ処理",
+    "reading": "ばっちしょり",
+    "id": "Pemrosesan batch"
+  },
+  {
+    "jp": "生産性",
+    "reading": "せいさんせい",
+    "id": "Produktivitas"
+  },
+  {
+    "jp": "コスト",
+    "reading": "こすと",
+    "id": "Biaya / ongkos produksi"
+  },
+  {
+    "jp": "流通",
+    "reading": "りゅうつう",
+    "id": "Distribusi produk"
+  },
+  {
+    "jp": "製造ライン",
+    "reading": "せいぞうらいん",
+    "id": "Lini produksi"
+  },
+  {
+    "jp": "生産管理",
+    "reading": "せいさんかんり",
+    "id": "Manajemen produksi"
+  },
+  {
+    "jp": "生産計画",
+    "reading": "せいさんけいかく",
+    "id": "Rencana produksi"
+  },
+  {
+    "jp": "製造指示書",
+    "reading": "せいぞうしじしょ",
+    "id": "Instruksi / perintah produksi"
+  },
+  {
+    "jp": "品目別製造",
+    "reading": "ひんもくべつせいぞう",
+    "id": "Produksi per jenis produk"
+  },
+  {
+    "jp": "切り替え作業",
+    "reading": "きりかえさぎょう",
+    "id": "Pekerjaan pergantian produk / changeover"
+  },
+  {
+    "jp": "段取り",
+    "reading": "だんどり",
+    "id": "Persiapan / setup sebelum produksi"
+  },
+  {
+    "jp": "立ち上げ",
+    "reading": "たちあげ",
+    "id": "Startup / memulai operasi"
+  },
+  {
+    "jp": "立ち下げ",
+    "reading": "たちさげ",
+    "id": "Shutdown / menghentikan operasi"
+  },
+  {
+    "jp": "不稼働時間",
+    "reading": "ふかどうじかん",
+    "id": "Waktu mesin tidak beroperasi / downtime"
+  },
+  {
+    "jp": "稼働率",
+    "reading": "かどうりつ",
+    "id": "Tingkat utilisasi mesin"
+  },
+  {
+    "jp": "ロス削減",
+    "reading": "ろすさくげん",
+    "id": "Pengurangan kerugian / waste reduction"
+  },
+  {
+    "jp": "生産性向上",
+    "reading": "せいさんせいこうじょう",
+    "id": "Peningkatan produktivitas"
+  },
+  {
+    "jp": "製造記録",
+    "reading": "せいぞうきろく",
+    "id": "Catatan produksi"
+  },
+  {
+    "jp": "製造手順",
+    "reading": "せいぞうてじゅん",
+    "id": "Prosedur produksi"
+  },
+  {
+    "jp": "製造条件",
+    "reading": "せいぞうじょうけん",
+    "id": "Kondisi produksi"
+  },
+  {
+    "jp": "製造パラメータ",
+    "reading": "せいぞうぱらめーた",
+    "id": "Parameter produksi"
+  },
+  {
+    "jp": "バッチ記録",
+    "reading": "ばっちきろく",
+    "id": "Catatan batch produksi"
+  },
+  {
+    "jp": "製造数量",
+    "reading": "せいぞうすうりょう",
+    "id": "Jumlah produksi"
+  },
+  {
+    "jp": "生産目標",
+    "reading": "せいさんもくひょう",
+    "id": "Target produksi"
+  },
+  {
+    "jp": "生産実績",
+    "reading": "せいさんじっせき",
+    "id": "Realisasi / hasil produksi aktual"
+  },
+  {
+    "jp": "残業生産",
+    "reading": "ざんぎょうせいさん",
+    "id": "Produksi dengan lembur"
+  },
+  {
+    "jp": "試作",
+    "reading": "しさく",
+    "id": "Percobaan produksi / trial production"
+  },
+  {
+    "jp": "量産",
+    "reading": "りょうさん",
+    "id": "Produksi massal"
+  },
+  {
+    "jp": "少量生産",
+    "reading": "しょうりょうせいさん",
+    "id": "Produksi skala kecil"
+  },
+  {
+    "jp": "多品種少量生産",
+    "reading": "たひんしゅしょうりょうせいさん",
+    "id": "Produksi multi-jenis skala kecil"
+  },
+  {
+    "jp": "設備の稼働",
+    "reading": "せつびのかどう",
+    "id": "Operasi peralatan / mesin"
+  },
+  {
+    "jp": "生産ロス",
+    "reading": "せいさんろす",
+    "id": "Kerugian produksi"
+  },
+  {
+    "jp": "良品率",
+    "reading": "りょうひんりつ",
+    "id": "Tingkat produk baik"
+  },
+  {
+    "jp": "廃棄率",
+    "reading": "はいきりつ",
+    "id": "Tingkat pembuangan / reject rate"
+  }
+]
